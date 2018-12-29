@@ -1,0 +1,1 @@
+a jupyter notebook that guides pupils through some concepts in complex iterations and eventually leads to the Mandelbrot Set
